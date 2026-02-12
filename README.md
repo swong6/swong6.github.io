@@ -1,6 +1,6 @@
 # Sharmaine Wong
 
-#### Technical Skills: Python, SQL, Tableau, Power BI, Excel, Jupyter Notebooks
+#### Technical Skills: Python, SQL, Tableau, Power BI, Excel
 
 ## Education						       		
 - M.S., Analytics	| The University of Washington (_June 2026_)			        		
