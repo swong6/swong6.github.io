@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Power BI, Excel
 
 ## Education						       		
-- M.S., Analytics	| The University of Washington (_June 2026_)			        		
+- M.S., Analytics	| University of Washington (_June 2026_)			        		
 - B.S., International Business | Loughborough University (_Jul 2020_)
 
 ## Work Experience
